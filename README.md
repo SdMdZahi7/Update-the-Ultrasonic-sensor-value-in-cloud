@@ -204,7 +204,8 @@ long microsecondsToCentimeters(long microseconds) {
 
 
 # OUTPUT:
-![image](https://github.com/SdMdZahi7/Update-the-Ultrasonic-sensor-value-in-cloud/assets/94187572/47a14c38-9f24-4d7e-86fc-20a2a4baa8ce)
+![image](https://github.com/SdMdZahi7/Update-the-Ultrasonic-sensor-value-in-cloud/assets/94187572/6273c4a0-78fb-4352-b895-47221c3b98ce)
+
 
 # RESULT:
 
